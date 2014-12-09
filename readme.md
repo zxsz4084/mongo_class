@@ -5,7 +5,7 @@ touch README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/chenlongteam/mongo_class.git
+git remote add origin https://github.com/zxsz4084/mongo_class.git
 git push -u origin master
  
 
@@ -13,5 +13,5 @@ git push -u origin master
 push an existing repository from the command line
 
 
-git remote add origin https://github.com/chenlongteam/mongo_class.git
+git remote add origin https://github.com/zxsz4084/mongo_class.git
 git push -u origin master
